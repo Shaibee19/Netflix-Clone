@@ -75,3 +75,6 @@
     cursor: pointer;
 }
 
+.nav__dark {
+    background: #141414;
+}
